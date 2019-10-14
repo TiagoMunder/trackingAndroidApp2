@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376806237525",
+    "firebase_url": "https://eventmap-3974b.firebaseio.com",
+    "project_id": "eventmap-3974b",
+    "storage_bucket": "eventmap-3974b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376806237525:android:e146aaeaf33989b8",
+        "android_client_info": {
+          "package_name": "pt.ubi.trackingwebapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376806237525-1pl0e3fhsjbvfbk3f63ufie19opgk755.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CtWQakmGV_k3GBF4aCVQCcY3cl5qQLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376806237525-1pl0e3fhsjbvfbk3f63ufie19opgk755.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
